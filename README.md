@@ -1,3 +1,1 @@
-#### Values JS
-
-[values.js](https://github.com/noeldelgado/values.js)
+simple Color generator with added functionality to determine amount of color tiles per selection
